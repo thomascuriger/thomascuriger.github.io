@@ -19,7 +19,7 @@
 
 	body {
 		overflow: hidden;
-		background: grey url("images/custom.jpg") top center;
+		background: grey url("images/custom.jpg") center center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
